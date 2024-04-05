@@ -1,1 +1,1 @@
-# Hospital_Management_System
+# A Python project which simulates a Hospital Management System
